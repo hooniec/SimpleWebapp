@@ -6,7 +6,6 @@ spec:
   type: LoadBalancer
   ports:
   - protocol: TCP
-    port: 80
-    targetPort: 9376
+    port: 443
   selector:
     app: webapp
