@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHOCt5aPTsmChLJEA+Q96ZEilpNhhTLP0cSPkVGnzmUwEUouspv+w5HIg6QOUoZAMnLvGZKoVt4VXTCgEX4tvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sunghoon.cho\\CS7504_Assignment2_Sunghoon_Cho\\SimpleWebapp\\app\\SimpleWebapp\\SimpleWebapp\\SimpleWebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sunghoon.cho\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
