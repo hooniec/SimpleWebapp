@@ -10,6 +10,6 @@ spec:
   ports:
   - port: 80
     targetPort: 80
-    nodePort: 5001
+    nodePort: 33333
   selector:
     app: webapp
