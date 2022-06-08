@@ -14,7 +14,7 @@ spec:
         app: webapp
     spec:
       containers:
-      - name: simpleapplication
-        image: cshoon1220/simpleapplication:v1
+      - name: simplewebapp
+        image: cshoon1220/simplewebapp:v1
         ports:
         - containerPort: 80
