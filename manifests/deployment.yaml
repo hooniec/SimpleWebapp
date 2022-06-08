@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: simplewebapp
-        image: cshoon1220/simplewebapp:v1
+        image: hoonieregistry.azurecr.io/simplewebapp:latest
         ports:
         - containerPort: 80
