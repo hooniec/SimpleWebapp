@@ -6,10 +6,10 @@ metadata:
   labels:
     app: webapp
 spec:
-  type: LoadBalancer
+  type: NodePort
   ports:
-  - port: 8765
-    targetPort: 9376
-  externalTrafficPolicy: Local
+  - port: 80
+    targetPort: 80
+    nodePort: 31234
   selector:
     app: webapp
