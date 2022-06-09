@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: hoonieregistry.azurecr.io/simplewebapp:latest
+        image: hoonieregistry.azurecr.io/simplewebapp
         imagePullPolicy: Always
         ports:
         - containerPort: 80
